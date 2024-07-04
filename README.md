@@ -4,19 +4,24 @@
 Task 1: Movie Rating Prediction
 
 Objective:
-Build a predictive model to estimate movie ratings based on features such as genre, director, and actors. This involves utilizing regression techniques to analyze historical movie data and predict ratings given by users or critics.
+
+          Build a predictive model to estimate movie ratings based on features such as genre, director, and actors. This involves utilizing regression techniques to analyze historical movie data and predict ratings given by users or critics.
 
 Key Activities:
-Data Analysis
-Data Pre-processing
-Feature Engineering
-Machine Learning Modeling
+
+        - Data Analysis
+        - Data Pre-processing
+        - Feature Engineering
+        - Machine Learning Modeling
 
 Tools Used:
-Google Colab
+        
+        - Google Colab
 
 Algorithm:
-Regression Techniques
+ 
+        - Regression Techniques
 
 Overview:
-This assignment enables exploration of data analysis and machine learning techniques. It provides insights into factors influencing movie ratings and aims to develop an accurate rating prediction model.
+
+         This assignment enables exploration of data analysis and machine learning techniques. It provides insights into factors influencing movie ratings and aims to develop an accurate rating prediction model.
